@@ -55,8 +55,10 @@
         "stripe/stripe-php": "^6.43",
         "sylius-labs/coding-standard": "^4.0",
         "symfony/browser-kit": "^4.4 || ^5.2",
+        "symfony/css-selector": "^5.3",
         "symfony/debug-bundle": "^4.4 || ^5.2",
         "symfony/intl": "^4.4 || ^5.2",
+        "symfony/phpunit-bridge": "^5.3",
         "symfony/web-profiler-bundle": "^4.4 || ^5.2"
     },
     "config": {
