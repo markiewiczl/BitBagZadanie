@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Entity\Product;
 
 use Sylius\Component\Core\Model\Product as BaseProduct;
@@ -18,6 +20,4 @@ class Product extends BaseProduct implements ProductInterface
     {
         $this->color = $color;
     }
-
-
 }
